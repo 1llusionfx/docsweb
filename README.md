@@ -61,7 +61,7 @@ the public site reflects the change within seconds.
 
 | Layer        | Choice |
 | ------------ | ------ |
-| Framework    | Next.js 15 (App Router) · React 19 · TypeScript |
+| Framework    | Next.js 16.x (App Router) · React 19 · TypeScript |
 | Styling      | Tailwind CSS 3.4 · shadcn-style components |
 | Data         | Prisma 6 ORM |
 | Auth         | Auth.js v5 — Credentials provider, JWT sessions |
