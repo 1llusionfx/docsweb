@@ -104,7 +104,6 @@ deploy/        container, reverse-proxy, and process-manager configs
 
 ## Screenshots
 
-> _Add a few images here to bring the README to life — e.g._
 > `docs/soon.png`, `docs/soon.png`, `docs/soon.png`.
 >
 > ```md
