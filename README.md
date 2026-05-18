@@ -5,6 +5,7 @@
 **A self-hosted, GitBook-style documentation platform with a built-in CMS.**
 
 Setup guides, fixes, and the answers users keep asking: all editable from the browser, no rebuilds.
+Coded by Miracle Developer Studio.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
@@ -123,5 +124,5 @@ Want a walkthrough or a live demo? Feel free to reach out.
 ---
 
 <div align="center">
-<sub>Designed and built end to end // frontend, CMS, database, auth, and deployment.</sub>
+<sub> 1llusion.dev/miracle // frontend, CMS, database, auth, and deployment.</sub>
 </div>
