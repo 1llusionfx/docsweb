@@ -4,7 +4,7 @@
 
 **A self-hosted, GitBook-style documentation platform with a built-in CMS.**
 
-Setup guides, fixes, and the answers users keep asking — all editable from the browser, no rebuilds.
+Setup guides, fixes, and the answers users keep asking: all editable from the browser, no rebuilds.
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
@@ -19,8 +19,8 @@ Setup guides, fixes, and the answers users keep asking — all editable from the
 ## What it is
 
 AtomCheats Docs is the documentation site that powers a product's help center. It looks
-and reads like GitBook — a multi-level sidebar, version switcher, instant search, dark/light
-themes — but everything is editable through an **in-browser admin panel**, so non-technical
+and reads like GitBook a multi-level sidebar, version switcher, instant search, dark/light
+themes but everything is editable through an **in-browser admin panel**, so non-technical
 editors can ship content without touching code or triggering a deploy.
 
 Content is stored in a database as MDX and rendered server-side. When an editor saves a page,
