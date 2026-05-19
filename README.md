@@ -105,12 +105,11 @@ deploy/        container, reverse-proxy, and process-manager configs
 
 ## Screenshots
 
-> `docs/soon.png`, `docs/soon.png`, `docs/soon.png`.
->
-> ```md
-> ![Home](docs/soon.png)
-> ![MDX editor](docs/soon.png)
-> ```
+| Home | Documentation page |
+| :--: | :----------------: |
+| ![Home](docs/home.png) | ![Documentation page](docs/doc-page.png) |
+| **Command-palette search** | **In-browser MDX editor** |
+| ![Search](docs/search.png) | ![MDX editor](docs/admin-editor.png) |
 
 ---
 
