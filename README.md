@@ -19,7 +19,7 @@ Coded by Miracle Developer Studio.
 
 ## What it is
 
-AtomCheats Docs is the documentation site that powers a product's help center. It looks
+WebDocs is the documentation site that powers a product's help center. It looks
 and reads like GitBook a multi-level sidebar, version switcher, instant search, dark/light
 themes but everything is editable through an **in-browser admin panel**, so non-technical
 editors can ship content without touching code or triggering a deploy.
